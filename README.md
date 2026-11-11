@@ -1,5 +1,19 @@
 # Kamiar Sohafi | Cybersecurity & AI Portfolio
 
+<escape><div align="center"></escape>
+
+### Cybersecurity & AI Engineer
+
+**Welcome to my professional portfolio.**
+
+Explore my projects, technical expertise, professional background, and certifications.
+
+<escape><a href="https://tiny-manatee-4850ae.netlify.app/"><img src="https://img.shields.io/badge/VIEW_LIVE_PORTFOLIO-Visit%20Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a></escape>
+
+**Live Website:** https://tiny-manatee-4850ae.netlify.app/
+
+<escape></div></escape>
+
 Welcome to my portfolio.
 
 I'm Kamiar Sohafi, a technology enthusiast focused on Cybersecurity, Artificial Intelligence, and Software Development. I enjoy exploring how technology works, solving technical problems, and building practical projects that help me develop my skills.
